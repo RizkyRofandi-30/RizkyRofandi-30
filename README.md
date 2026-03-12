@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Hello, Dev I'm Rizky Rofandi 👋
 
 
