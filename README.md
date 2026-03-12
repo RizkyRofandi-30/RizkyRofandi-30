@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, Dev I'm Rizky Rofandi 👋
 
 <!--
 **RizkyRofandi-30/RizkyRofandi-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
